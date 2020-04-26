@@ -1,8 +1,8 @@
 <div style="border-bottom:none;">
 <div align="center">
 <img style="border-bottom:none;" src="imgs/techfak.jpg">
-<h1 style="border-bottom:none;">Summer Semester Course 2020<h1>
-<h1 style="border-bottom:none;">Pattern Analysis<h1>
+<h1>Summer Semester Course 2020<h1>
+<h1>Pattern Analysis<h1>
 </div>
 </div>
 
